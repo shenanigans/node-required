@@ -20,7 +20,7 @@
     "modules"
   ],
   "dependencies": {
-    "detective": "3.1.0"
+    "detective": "git+http://github.com/shenanigans/node-detective#f3dcd80552aa4a9abf75fbc5e22e4f33b28b36e1"
   },
   "devDependencies": {
     "mocha": "~1.5.0",
